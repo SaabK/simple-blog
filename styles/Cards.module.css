@@ -1,0 +1,9 @@
+.gridContainer {
+  display: grid;
+  width: 75%;
+  margin: 28px auto;
+  gap: 50px 100px;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: auto;
+  justify-items: center;
+}

@@ -1,0 +1,22 @@
+.container {
+  width: 63%;
+  margin: 20px auto;
+}
+
+.blogImage {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.heading {
+  font-size: 4rem;
+}
+
+.excerpt {
+  font-size: 1.18rem;
+}
+
+.description {
+  font-size: 1.353rem;
+  text-align: justify;
+}
